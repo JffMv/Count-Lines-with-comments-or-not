@@ -1,5 +1,6 @@
 # Count Lines with comments or not for JAVA
-(Repository in GitHub here)[https://github.com/JffMv/Count-Lines-with-comments-or-not]
+[Repository in GitHub here](https://github.com/JffMv/Count-Lines-with-comments-or-not)
+
 In java can count with comments or not, in others files just count rows.
 
 
