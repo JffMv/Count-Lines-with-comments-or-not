@@ -1,13 +1,18 @@
 HELP.md
-target/
+
+target/*
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!target/apidocs/
-!target/testapidocs/
-!target/count_lines-1.0-SNAPSHOT-javadoc.jar
-!target/count_lines-1.0-SNAPSHOT-test-javadoc.jar
-!target/count_lines-1.0-SNAPSHOT.jar
+
+# Allow the apidocs/ directory
+!**/target/apidocs/
+# Allow the testapidocs/ directory
+!**/target/testapidocs/
+# Allow specific JAR files
+!**/target/count_lines-1.0-SNAPSHOT-javadoc.jar
+!**/target/count_lines-1.0-SNAPSHOT-test-javadoc.jar
+!**/target/count_lines-1.0-SNAPSHOT.jar
 *.mvn/*
 .mvn*
 
