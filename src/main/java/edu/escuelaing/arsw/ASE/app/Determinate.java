@@ -2,6 +2,9 @@ package edu.escuelaing.arsw.ASE.app;
 
 import java.io.File;
 
+/**
+ * Allow see all files in a directory, because use recursion.
+ */
 public class Determinate {
     /**
      *  Identify if it is the file or directory and work base on it.

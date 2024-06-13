@@ -2,7 +2,9 @@ package edu.escuelaing.arsw.ASE.app;
 
 import java.io.*;
 
-
+/**
+ * This class give methods statics for use the count rows.
+ */
 public class CountRows {
     /**
      *
