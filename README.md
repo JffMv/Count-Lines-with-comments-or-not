@@ -3,6 +3,9 @@
 
 In java can count with comments or not, in others files just count rows.
 
+This project was development in **24 LCO/h** in others words 96 lines of code for 4 hours.
+
+
 
 ## Getting Started
 
